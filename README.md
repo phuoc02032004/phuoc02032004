@@ -1,4 +1,4 @@
-# Xin chào, tôi là [Tên của bạn]! 👋
+# Xin chào, tôi là Nguyễn Hồng Phước! 👋
 
 ### Chào mừng đến với Profile GitHub của tôi! ✨
 
